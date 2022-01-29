@@ -3,7 +3,7 @@
 
 Hello,
 
-I have created a framework to test Mercari app, but unfortunately it is not working out-of Japan. So I assumed sall the mobile element locators and also 
+I have created a framework to test Mercari app, but unfortunately it is not working out-of Japan. So I assumed all the mobile element locators and also 
 page names. 
 
 Feel free to inspect all the framework and Test Cases. 
